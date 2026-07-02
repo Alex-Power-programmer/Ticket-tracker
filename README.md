@@ -27,7 +27,7 @@ Fullstack-приложение для учёта внутренних заяво
 
 ```bash
 git clone https://github.com/Alex-Power-programmer/Ticket-tracker>
-cd ticket-tracker
+cd ticket-tracker.git
 ```
 
 ### 2. Установка зависимостей
