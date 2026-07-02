@@ -26,8 +26,8 @@ Fullstack-приложение для учёта внутренних заяво
 ### 1. Клонирование репозитория
 
 ```bash
-git clone https://github.com/Alex-Power-programmer/Ticket-tracker>
-cd ticket-tracker.git
+git clone https://github.com/Alex-Power-programmer/Ticket-tracker.git
+cd ticket-tracker
 ```
 
 ### 2. Установка зависимостей
